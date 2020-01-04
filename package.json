@@ -1,9 +1,9 @@
 {
-  "name": "architectui-react-theme-free",
+  "name": "HawkAI Data",
   "version": "1.0.0",
   "private": true,
-  "description": "ArchitectUI - Bootstrap 4 ReactJS Admin Dashboard Template FREE",
-  "author": "DashboardPack.com",
+  "description": "Upload data, connect, analyze, model, and share",
+  "author": "Karthik P R",
   "homepage": "https://demo.dashboardpack.com/architectui-react-free/",
   "repository": {
     "type": "git",
